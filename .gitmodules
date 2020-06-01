@@ -1,0 +1,9 @@
+[submodule "mnist-client"]
+	path = mnist-client
+	url = https://github.com/Talador12/mnist-client.git
+[submodule "mnist-serving"]
+	path = mnist-serving
+	url = https://github.com/Talador12/mnist-serving
+[submodule "mnist-training"]
+	path = mnist-training
+	url = https://github.com/Talador12/mnist-training
