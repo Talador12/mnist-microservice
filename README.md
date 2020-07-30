@@ -7,7 +7,7 @@ Table of Contents:
 - [Overview](#Overview)
 - [Technologies](#Technologies)
 
-# Runbook
+## Runbook
 
 [[back to top]](#)
 
@@ -15,7 +15,7 @@ Run the command `make` in the root of the repository to see a list of available 
 
 For more on `make`, see [Make by the GNU Project](https://www.gnu.org/software/make/)
 
-# Overview
+## Overview
 
 [[back to top]](#)
 
@@ -27,7 +27,7 @@ For more on `make`, see [Make by the GNU Project](https://www.gnu.org/software/m
     - serving
     - client code
 
-# Technologies
+## Technologies
 
 [[back to top]](#)
 
